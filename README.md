@@ -7,6 +7,6 @@ This is the public repository of Meta analysis study that compares TLS based bio
 [View the figure](./figures/)
 
 ## Supplementary Materials
--[Supplementary Figures](./Supplementary%20materials/Supplementary%20Figures.docx/)
--[Supplementary Tables](./Supplementary%20materials/supplementary%20table.xlsx/)
+Available at online zenodo repository: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15298651.svg)](https://doi.org/10.5281/zenodo.15298651)
+
 
