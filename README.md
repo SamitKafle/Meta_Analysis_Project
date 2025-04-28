@@ -4,5 +4,5 @@ This is the public repository of Meta analysis study that compares TLS based bio
 [View the Code](./code.R)
 
 ## Figures
-[View the figure] (./Figures]
+[View the figure] (./figures]
 
