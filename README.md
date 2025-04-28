@@ -7,6 +7,6 @@ This is the public repository of Meta analysis study that compares TLS based bio
 [View the figure](./figures/)
 
 ## Supplementary Materials
-[Supplementary Figures](./Supplementary%20materials/Supplementary%20Figures.docx/)
-[Supplementary Tables]()
+-[Supplementary Figures](./Supplementary%20materials/Supplementary%20Figures.docx/)
+-[Supplementary Tables](./Supplementary%20materials/supplementary%20table.xlsx/)
 
