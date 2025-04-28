@@ -1,7 +1,7 @@
 # Meta_Analysis_Project
 This is the public repository of Meta analysis study that compares TLS based biomass estimates and allometric equation based biomass estimates with the destructive sampling data.
 ## RMarkdown
-[Download and view](./code.html)
+View the rendered code click [here](./code.pdf)
 ## Code
 [View the Code](./code.R)
 
